@@ -1,0 +1,21 @@
+.header{
+    background-color: #1F2937;
+    display: flex;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+li{
+    text-decoration: none;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.page{
+    flex: 1;
+}
